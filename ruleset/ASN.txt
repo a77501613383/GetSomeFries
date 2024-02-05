@@ -330,7 +330,7 @@ IP-ASN,58852,direct // 贵州 provincial 广电 information Network Inc
 IP-ASN,58854,direct // 厦门艾雅网络科技有限公司
 IP-ASN,58859,direct // 深圳 WSUNet Technology 有限公司
 IP-ASN,58862,direct // 微软（中国）有限公司
-IP-ASN,58863,direct // hijingshan District, 北京 to reunite the property the second floor
+IP-ASN,58863,direct // 北京
 IP-ASN,58866,direct // 中国金融认证局
 IP-ASN,58879,direct // 上海安昌网络安全技术有限公司
 IP-ASN,58962,direct // 四川世纪立新财务管理咨询有限公司
