@@ -560,9 +560,9 @@ IP-ASN,136180,direct // 北京 Tiantexin Tech. 有限公司
 IP-ASN,136188,direct // 迪庆
 IP-ASN,136189,direct // Opera软件技术（北京）有限公司
 IP-ASN,136190,direct // 大理
-IP-ASN,136191,direct // YICHANG, 湖北省, P.R.China.
-IP-ASN,136192,direct // Xiangyang, 湖北省, P.R.China.
-IP-ASN,136193,direct // Jingzhou, 湖北省, P.R.China.
+IP-ASN,136191,direct // YICHANG
+IP-ASN,136192,direct // Xiangyang
+IP-ASN,136193,direct // Jingzhou
 IP-ASN,136194,direct // 黄石
 IP-ASN,136195,direct // 中国电信 Dehong
 IP-ASN,136197,direct // 文山
