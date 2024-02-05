@@ -632,7 +632,7 @@ IP-ASN,137787,direct // 北京 Jingdong Shangke信息科技有限公司
 IP-ASN,137788,direct // Shanxi Beacon Cloudscape
 IP-ASN,137791,direct // 广州 enjoyVC 通讯技术有限公司
 IP-ASN,137794,direct // Dahe tianchi (北京) network 有限公司
-IP-ASN,137798,direct // Zhujiang Yide Building, 362 Dongfeng Middle Road, Yuexiu District,
+IP-ASN,137798,direct //
 IP-ASN,137799,direct // 中国广发银行
 IP-ASN,137801,direct // AIPO Cloud (贵州) Technology 有限公司
 IP-ASN,137804,direct // China Internet Exchange
