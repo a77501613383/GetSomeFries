@@ -941,7 +941,7 @@ IP-ASN,140903,direct // 中国电信
 # IP-ASN,140913,direct // Hentai Network Lab
 IP-ASN,140936,direct // SUNNET Global Network
 IP-ASN,140979,direct // China Unicom 上海 FuTe IDC network
-IP-ASN,141025,direct // Shenyang MAN, Liaoning, 中国电信
+IP-ASN,141025,direct // 中国电信
 IP-ASN,141157,direct // 广西 Telecom Nanning Wuxiang Yuanyang IDC
 IP-ASN,141425,direct // 中国移动集团广东 communications corporation
 IP-ASN,141429,direct // Agatha Network
@@ -5077,7 +5077,7 @@ IP-ASN,146774,direct // Hardcore Communication Co.
 IP-ASN,146792,direct // 上海 Shenfu信息科技有限公司
 IP-ASN,146809,direct // Poly facility (北京) Technology 有限公司
 IP-ASN,146812,direct // Deutsche Bank (China) 有限公司 上海 Branch
-IP-ASN,146814,direct // Hong Kong大学 of Science and Technology, Dongchung Town,
+IP-ASN,146814,direct // Hong Kong
 IP-ASN,146817,direct // 湖北 Feixun Network 有限公司
 IP-ASN,146822,direct // 深圳市 Zhongyun Shujujishu Youxiangongsi
 IP-ASN,146824,direct // GOLD SEA COMMUNICATIONS 有限公司
