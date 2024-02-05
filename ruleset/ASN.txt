@@ -756,7 +756,7 @@ IP-ASN,139833,direct // Evsio0n Network Inc.
 IP-ASN,139866,direct // Ankang Puchuang 网络科技有限公司
 IP-ASN,139874,direct // Wu'an Chihong 网络科技有限公司
 IP-ASN,139887,direct // CHINANET Shandong Yantai IDC network
-IP-ASN,139888,direct // No.16 Hengcha Rd, Zhuhui, Hengyang, 湖南
+IP-ASN,139888,direct // 湖南
 IP-ASN,139908,direct // Karamay Hzon 网络科技Development 有限公司
 IP-ASN,140043,direct // 广州 Jinggong信息科技有限公司
 IP-ASN,140053,direct // 中国电信
