@@ -5068,7 +5068,7 @@ IP-ASN,146742,direct //
 IP-ASN,146743,direct // 
 IP-ASN,146744,direct // 
 IP-ASN,146745,direct // 
-IP-ASN,146746,direct // TaiKang Insurance Group 有限公司.,武汉 Operating Center
+IP-ASN,146746,direct // 武汉 Operating Center
 IP-ASN,146753,direct // kgzxnet
 IP-ASN,146758,direct // 上海 Sensetime 技术开发有限公司
 IP-ASN,146771,direct // CCB Fintech 有限公司
