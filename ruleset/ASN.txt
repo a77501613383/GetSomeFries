@@ -67,7 +67,7 @@ IP-ASN,17429,direct // 北京歌华有线电视网络有限公司
 IP-ASN,17430,direct // 北京西朗传媒文化有限公司
 IP-ASN,17442,direct // 中国互联网服务提供商
 # IP-ASN,17457,direct // 雅虎网络科技           【未广播中国大陆IP】
-IP-ASN,17490,direct // 3/F,Yi Qing Building,Hua Jing Xin Cheng,广州
+IP-ASN,17490,direct // Yi Qing Building,Hua Jing Xin Cheng,广州
 IP-ASN,17621,direct // 中国联通上海城网
 IP-ASN,17622,direct // 中国联通广州城网
 IP-ASN,17623,direct // 中国联通深圳城网
@@ -103,7 +103,7 @@ IP-ASN,23724,direct // 中国电信IDC网络
 IP-ASN,23771,direct // 陕西广电网络
 IP-ASN,23839,direct // 辽河油田电讯公司
 IP-ASN,23840,direct // 天津先进信息产品有限公司
-IP-ASN,23841,direct // 6/F, No.3 Huatian Road, New Technology Industry Area
+IP-ASN,23841,direct // No.3 Huatian Road, New Technology Industry Area
 IP-ASN,23842,direct // 深圳市信息网络中心
 IP-ASN,23844,direct // 北京光环新旺数码
 IP-ASN,23848,direct // 深圳市平安通讯科技有限公司
@@ -632,7 +632,7 @@ IP-ASN,137787,direct // 北京 Jingdong Shangke信息科技有限公司
 IP-ASN,137788,direct // Shanxi Beacon Cloudscape
 IP-ASN,137791,direct // 广州 enjoyVC 通讯技术有限公司
 IP-ASN,137794,direct // Dahe tianchi (北京) network 有限公司
-IP-ASN,137798,direct // 5/F, Zhujiang Yide Building, 362 Dongfeng Middle Road, Yuexiu District,
+IP-ASN,137798,direct // Zhujiang Yide Building, 362 Dongfeng Middle Road, Yuexiu District,
 IP-ASN,137799,direct // 中国广发银行
 IP-ASN,137801,direct // AIPO Cloud (贵州) Technology 有限公司
 IP-ASN,137804,direct // China Internet Exchange
