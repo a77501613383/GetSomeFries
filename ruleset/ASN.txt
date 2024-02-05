@@ -67,7 +67,7 @@ IP-ASN,17429,direct // 北京歌华有线电视网络有限公司
 IP-ASN,17430,direct // 北京西朗传媒文化有限公司
 IP-ASN,17442,direct // 中国互联网服务提供商
 # IP-ASN,17457,direct // 雅虎网络科技           【未广播中国大陆IP】
-IP-ASN,17490,direct // Yi Qing Building,Hua Jing Xin Cheng,广州
+IP-ASN,17490,direct // 广州
 IP-ASN,17621,direct // 中国联通上海城网
 IP-ASN,17622,direct // 中国联通广州城网
 IP-ASN,17623,direct // 中国联通深圳城网
@@ -103,7 +103,7 @@ IP-ASN,23724,direct // 中国电信IDC网络
 IP-ASN,23771,direct // 陕西广电网络
 IP-ASN,23839,direct // 辽河油田电讯公司
 IP-ASN,23840,direct // 天津先进信息产品有限公司
-IP-ASN,23841,direct // No.3 Huatian Road, New Technology Industry Area
+IP-ASN,23841,direct // New Technology Industry Area
 IP-ASN,23842,direct // 深圳市信息网络中心
 IP-ASN,23844,direct // 北京光环新旺数码
 IP-ASN,23848,direct // 深圳市平安通讯科技有限公司
@@ -397,7 +397,7 @@ IP-ASN,63593,direct // 广东 HeyTap Technology 有限公司
 IP-ASN,63598,direct // 河北 Kun Time 网络科技有限公司.
 IP-ASN,63603,direct // 北京HYCT网络有限公司
 IP-ASN,63612,direct // 深圳前海鸟云计算有限公司
-IP-ASN,63614,direct // A4, 5th Floor, Tower C, Triumph Plaza, Unit A, No 143,
+IP-ASN,63614,direct // 
 IP-ASN,63615,direct // 通用（中国）有限公司
 IP-ASN,63617,direct // 麦肯锡咨询公司上海
 IP-ASN,63619,direct // 北京 Sankuai 云计算有限公司
@@ -563,7 +563,7 @@ IP-ASN,136190,direct // 大理
 IP-ASN,136191,direct // YICHANG, 湖北省, P.R.China.
 IP-ASN,136192,direct // Xiangyang, 湖北省, P.R.China.
 IP-ASN,136193,direct // Jingzhou, 湖北省, P.R.China.
-IP-ASN,136194,direct // 黄石, 湖北省, P.R.China.
+IP-ASN,136194,direct // 黄石
 IP-ASN,136195,direct // 中国电信 Dehong
 IP-ASN,136197,direct // 文山
 IP-ASN,136198,direct // CHINANET 广东省 Yuexi MAN网络
@@ -5218,7 +5218,7 @@ IP-ASN,208679,direct // YIKAI-ZHAO
 # IP-ASN,208872,direct // Jing Mi
 # IP-ASN,208993,direct // Wei Xiaofan
 # IP-ASN,209083,direct // Jiahui Qiu
-# IP-ASN,209100,direct // 成渝，王
+# IP-ASN,209100,direct // 成渝
 # IP-ASN,209101,direct // Huanzhong (北京) Data 网络科技有限公司 【未广播中国大陆IP】
 # IP-ASN,209218,direct // Yang Qi
 # IP-ASN,209261,direct // Qiao Jiang
@@ -5238,8 +5238,8 @@ IP-ASN,210041,direct // Licheng MAO
 # IP-ASN,210320,direct // Zihan Sun 【未广播中国大陆IP】
 IP-ASN,210426,direct // Liang Zhu 【未广播中国大陆IP】
 IP-ASN,210714,direct // Wang Yongjin 【未广播中国大陆IP】
-# IP-ASN,210815,direct // Feng, Zhe 【未广播中国大陆IP】
-# IP-ASN,210872,direct // Cui, Jiacheng 【未广播中国大陆IP】
+# IP-ASN,210815,direct // Zhe 【未广播中国大陆IP】
+# IP-ASN,210872,direct // Jiacheng 【未广播中国大陆IP】
 IP-ASN,210903,direct // 承德青曜网络技术服务有限公司
 IP-ASN,210934,direct // YAO PEI 【未广播中国大陆IP】
 # IP-ASN,211051,direct // Dazhong Technology Network Studio of Tieling County 【未广播中国大陆IP】
